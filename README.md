@@ -1,6 +1,8 @@
 # rofi-wg-quick
 
 A rofi wrapper for wg-quick
+
+
 ![Showcase](Resources/rofi-wg-quick_showcase.gif)
 
 ## Usage
